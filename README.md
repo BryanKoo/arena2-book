@@ -1,4 +1,4 @@
-# recommender_kakao_arena2
+# recommender-arena2
 카카오 아레나 2회 대회(브런치 글 추천)에 제출한 최종 코드는 아래와 같이 공유되어 있습니니다.
 
 1등의 코드
