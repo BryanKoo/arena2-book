@@ -10,4 +10,7 @@ https://arena.kakao.com/c/2
 카카오 아레나 2회 대회 플레이그라운드
 https://arena.kakao.com/c/6
 
+카카오 아레아 2회 대회 예제 코드
+https://github.com/kakao-arena/brunch-article-recommendation
+
 본 저장소에서는 1등의 솔루션의 모델별 성능을 확인하기 위한 추가 코드를 공유합니다.
