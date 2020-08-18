@@ -6,6 +6,7 @@ https://github.com/JungoKim/brunch_nafma
 
 * inference_cf.py 협업 필터링 만으로 100건의 추천글을 생성하는 프로그램입니다.
 * inference_cbf.py 컨텐츠 기반 필터링 만으로 100건의 추천글을 생성하는 프로그램입니다.
+* inference_cbf_cf.py 
 
 참고 링크 목록
 * 카카오 아레나 2회 대회 https://arena.kakao.com/c/2
