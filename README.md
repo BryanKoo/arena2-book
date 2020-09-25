@@ -4,6 +4,7 @@ https://github.com/JungoKim/brunch_nafma
 
 본 저장소에서는 1등의 솔루션의 모델별 성능을 확인하기 위한 추가 코드를 공유합니다.
 
+* eda.ipynb 제공되는 데이터를 이해하기 위한 Explatory Data Analysis 노트북입니다.
 * inference_cf.py 협업 필터링 만으로 100건의 추천글을 생성하는 프로그램입니다.
 * inference_cbf.py 컨텐츠 기반 필터링 만으로 100건의 추천글을 생성하는 프로그램입니다.
 * inference_cbf_cf.py 두가지 모델의 예측 순서를 바꾸어서 100건의 추천글을 생성하는 프로그램입니다.
