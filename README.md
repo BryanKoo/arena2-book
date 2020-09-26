@@ -11,8 +11,8 @@ https://github.com/JungoKim/brunch_nafma
 
 1등 솔루션의 협업 필터링 추천 구현시 실험했던 워드 임베딩의 학습 데이터 생성, 모델 생성 및 예측 코드도 공유합니다.
 * prepare_w2v.py 글 아이디를 단어로, 각 세션에서 읽은 글들의 모음을 문장으로 Word2Vec 학습 데이터를 생성합니다.
-* train_w2v.py 파이썬 gensim 패키지를 사용하여 Word2Vec 모델을 생성합니다. (인자를 train로 주어 실행) 
-* recommend_wv.py 생성한 Word2Vec 모델로 추천할 글을 예측합니다. (인자를 dev
+* train_w2v.py 파이썬 gensim 패키지를 사용하여 Word2Vec 모델을 생성합니다. (model 인자를 train로 주어 실행) 
+* recommend_wv.py 생성한 Word2Vec 모델로 추천할 글을 예측합니다. (인자를 dev로 주어 실행)
 
 참고 링크 목록
 * 카카오 아레나 2회 대회 https://arena.kakao.com/c/2
